@@ -1,0 +1,6 @@
+C:\Users\Alan\source\repos\ServiceDB\ServiceDB.Core\obj\Debug\net6.0\ServiceDB.Core.csproj.AssemblyReference.cache
+C:\Users\Alan\source\repos\ServiceDB\ServiceDB.Core\obj\Debug\net6.0\ServiceDB.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\ServiceDB\ServiceDB.Core\obj\Debug\net6.0\ServiceDB.Core.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\ServiceDB\ServiceDB.Core\obj\Debug\net6.0\ServiceDB.Core.AssemblyInfo.cs
+C:\Users\Alan\source\repos\ServiceDB\ServiceDB.Core\obj\Debug\net6.0\ServiceDB.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\ServiceDB\ServiceDB.Core\obj\Debug\net6.0\ServiceDB.Core.MvcApplicationPartsAssemblyInfo.cache
